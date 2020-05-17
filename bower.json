@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "homepage": "https://github.com/oliveiramateusfelipe/front-end-tnv",
+  "authors": [
+    "Mateus <oliveira.mateusfelipe@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
